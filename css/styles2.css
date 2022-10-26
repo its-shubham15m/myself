@@ -1,0 +1,39 @@
+body {
+  background-color: #EDEDED;
+  color: #40514E;
+  margin: 0;
+  text-align: justify;
+  font-family: 'Merriweather',serif;
+  padding: 30px;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+}
+h2 {
+  color: #5F6F94;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  font-family: 'Montserrat',sans-serif;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+hr {
+  border: dotted #5F6F94 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.profile-pic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.wait {
+  width: 20%;
+}
